@@ -1,4 +1,4 @@
 # Software requirements:
-• Microsoft .Net framework 3.5
+• Microsoft excel
 • Microsoft Visual Studio code
 • ubuntu
